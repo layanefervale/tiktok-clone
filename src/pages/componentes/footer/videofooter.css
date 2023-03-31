@@ -45,11 +45,11 @@
 
 @keyframes spinTheRecord {
     0% {
-        transform: rotate(0degr);
+        transform: rotate(0deg);
     }
 
     100% {
-        transform: rotate(360degr);
+        transform: rotate(360deg);
     }
 }
 
